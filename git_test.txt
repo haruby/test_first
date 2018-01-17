@@ -2,4 +2,4 @@
 
   git test용 파일입니다. 
 
-  add git test
+다시 테스트 하고 저장
